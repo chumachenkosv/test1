@@ -2,7 +2,7 @@ MyClass{
 	int _a;
 	int _b;
 
-	Myclass(int a. int b): _a(a), _b(b){}
+	Myclass(int a. int b): _a(a), _b(b){};
 
 	int test =0;
 	
