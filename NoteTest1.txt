@@ -5,7 +5,3 @@ MyClass{
 	Myclass(int a. int b): _a(a), _b(b){}
 	
 }
-
-xxx
-xx
-x
