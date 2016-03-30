@@ -11,5 +11,7 @@ int r = 1;
 string = "glosd";
 
 	New TEST
+New TesT
+
 }
 
